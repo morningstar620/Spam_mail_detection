@@ -1,8 +1,5 @@
 # Spam Email Detection using Machine Learning 
 
-<a href="https://medium.com/@kalyanmurapaka274/spam-e-mail-classification-using-machine-learning-caf5653e58e1">Visit my Blog on Medium</a>
-<br><br>
-<a href="https://ijrpr.com/uploads/V3ISSUE11/IJRPR7780.pdf">Visit my Research Paper</a> 
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -127,7 +124,7 @@ To run the Deployment.py file, Execute the following Command in your command pro
     python Spam Classification Deployment.py
   ```
   
-![logo](https://github.com/KalyanMurapaka45/Spam-Email-Detection/blob/main/Data%20Source/deployment.png)
+![logo](https://github.com/morningstar620/Spam-Email-Detection/blob/main/Data%20Source/deployment.png)
 <!-- CONTRIBUTING -->
 
 # Contributing
@@ -143,10 +140,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch 
 5. Open a Pull Request
 
-<!-- LICENSE -->
-# License
-
-Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for more information.
 
 # Acknowledgements
 
