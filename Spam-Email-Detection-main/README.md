@@ -67,7 +67,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/KalyanMurapaka45/Spam-Email-Detection.git
+   git clone https://github.com/morningstar620/spam_mail_detection.git
    ```
 2. Install the required libraries
 
@@ -124,7 +124,7 @@ To run the Deployment.py file, Execute the following Command in your command pro
     python Spam Classification Deployment.py
   ```
   
-![logo](https://github.com/morningstar620/Spam-Email-Detection/blob/main/Data%20Source/deployment.png)
+![logo](https://github.com/morningstar620/Spam-Email-Detection-main/Data Source/deployment.png
 <!-- CONTRIBUTING -->
 
 # Contributing
