@@ -124,7 +124,7 @@ To run the Deployment.py file, Execute the following Command in your command pro
     python Spam Classification Deployment.py
   ```
   
-![logo](https://github.com/morningstar620/Spam-Email-Detection-main/Data Source/deployment.png)
+![logo](https://github.com/morningstar620/Spam_mail_detection/blob/main/Spam-Email-Detection-main/Data%20Source/deployment.png)
 <!-- CONTRIBUTING -->
 
 # Contributing
